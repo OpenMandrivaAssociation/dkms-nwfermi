@@ -1,7 +1,7 @@
 %define module_name nwfermi
 
 Name:		dkms-%{module_name}
-Version:	0.4.2
+Version:	0.5.2.0
 Release:	%mkrel 1
 Summary:	DKMS-ready kernel-source for the %name driver
 License:	GPL

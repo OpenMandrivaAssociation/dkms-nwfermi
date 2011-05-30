@@ -10,6 +10,7 @@ Source:		%module_name-%{version}.tar.bz2
 Group:		System/Kernel and hardware
 Requires(pre):	dkms
 Requires(post): dkms
+buildrequires:	x11-util-macros x11-server-devel
 Buildroot:	%{_tmppath}/%{name}-%{version}-root
 Buildarch:	noarch
 

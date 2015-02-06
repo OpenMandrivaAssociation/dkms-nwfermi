@@ -2,7 +2,7 @@
 
 Name:		dkms-%{module_name}
 Version:	0.4.2
-Release:	%mkrel 1
+Release:	2
 Summary:	DKMS-ready kernel-source for the %name driver
 License:	GPL
 URL:		http://www.fusionnetwork.us/index.php/articles/linux-tutorials/hp-touchsmart-300-touchscreen-linux-nextwindow-working/
